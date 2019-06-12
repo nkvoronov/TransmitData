@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransmitData</string>
+    <string name="activity_transmit">TransmitActivity</string>
+    <string name="activity_second">SecondActivity</string>
+    <string name="textview">Hello World!</string>
+    <string name="run_transmit">Transmit</string>
+</resources>

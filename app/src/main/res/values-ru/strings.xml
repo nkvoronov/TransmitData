@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="run_transmit">Передать</string>
+    <string name="app_name">Передача данных</string>
+    <string name="textview">Привет</string>
+    <string name="activity_second">Ответ</string>
+    <string name="activity_transmit">Передать</string>
+</resources>
