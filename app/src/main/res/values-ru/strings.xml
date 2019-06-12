@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="run_transmit">Передать</string>
     <string name="app_name">Передача данных</string>
-    <string name="textview">Привет</string>
     <string name="activity_second">Ответ</string>
     <string name="activity_transmit">Передать</string>
+    <string name="bt_transmit">Передать</string>
+    <string name="edt_to">Кому</string>
+    <string name="edt_message">Сообщение</string>
+    <string name="bt_transmitact">Передать</string>
+    <string name="bt_secondaсt">Ответ</string>
 </resources>

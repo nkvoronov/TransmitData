@@ -9,9 +9,9 @@
     tools:showIn="@layout/activity_second">
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
+        android:id="@+id/tw_message"
+        android:layout_width="395dp"
+        android:layout_height="659dp"
         android:gravity="center|center_vertical"
         android:paddingLeft="8dp"
         android:paddingTop="8dp"

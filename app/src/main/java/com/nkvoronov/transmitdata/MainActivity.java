@@ -14,9 +14,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onClick(View view) {
+    public void onClickTransmit(View view) {
         Intent intent = new Intent(MainActivity.this, TransmitActivity.class);
-        intent.putExtra("Ключ", "Значение");
+        startActivity(intent);
+    }
+
+    public void onClickAnswer(View view) {
+        Intent intent = new Intent(MainActivity.this, SecondActivity.class);
         startActivity(intent);
     }
 }

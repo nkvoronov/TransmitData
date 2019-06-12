@@ -2,6 +2,9 @@
     <string name="app_name">TransmitData</string>
     <string name="activity_transmit">TransmitActivity</string>
     <string name="activity_second">SecondActivity</string>
-    <string name="textview">Hello World!</string>
-    <string name="run_transmit">Transmit</string>
+    <string name="bt_transmit">Transmit</string>
+    <string name="edt_to">To</string>
+    <string name="edt_message">Message</string>
+    <string name="bt_secondaсt">Answer</string>
+    <string name="bt_transmitact">Transmit</string>
 </resources>
