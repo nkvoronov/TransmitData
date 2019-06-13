@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClickAnswer(View view) {
         Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+        intent.putExtra("username", "test");
+        intent.putExtra("message", "test");
         startActivity(intent);
     }
 }
